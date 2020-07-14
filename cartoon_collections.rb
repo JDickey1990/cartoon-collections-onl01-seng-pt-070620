@@ -19,6 +19,6 @@ def find_the_cheese(snacks)
      return cheese_type 
      break
     else 
-    "nil"
+    nil
   end
 end
