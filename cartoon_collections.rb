@@ -15,7 +15,9 @@ end
 def find_the_cheese(cheese_types)
   cheese_types = ["cheddar", "gouda","camembert"]
   cheese_types.any? {|i| ["cheddar", "gouda", "camembert"].include? i}
-  if false
+  if true
+   i
+    false
     "nil"
   end
 end
