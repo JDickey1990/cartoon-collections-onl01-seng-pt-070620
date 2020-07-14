@@ -18,8 +18,8 @@ def find_the_cheese(snacks)
     if snacks.include? cheese_type
      return cheese_type 
      break
-    else 
-    nil
+    else
+      return nil
   end
   end
 end
