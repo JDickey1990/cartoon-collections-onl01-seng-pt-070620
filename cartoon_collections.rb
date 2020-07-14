@@ -20,6 +20,6 @@ def find_the_cheese(snacks)
      break
     else
       return nil
-  end
+    end
   end
 end
